@@ -1,0 +1,1 @@
+FAIL EARLY ¶82 → ¶78 c f.stranger_asks_bayard → hyp:q.simpson_intent=only to get first-hand information (the page allows it)
